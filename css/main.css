@@ -99,6 +99,7 @@ textarea {
 html {
   background-color: #fff;
   height: 100%;
+  background-color: #0F646F;
 }
 
 body {
@@ -118,14 +119,16 @@ body {
 .div-1, .div-2, .div-3 {
   /*give the divs a width of 30%, add display:flex, set justify-content and align-items to center*/
   color: #fff;
-  line-height: 1.5em;
-  font-size: 1.6em;
-  background-color: #f16059;
+  line-height: 1.2em;
+  font-size: 0.9em;
+  background-color: #072F34;
   height: 300px;
   display: flex;
   width: 30%;
+  text-align: center;
   justify-content: center;
   align-items: center;
+  font-family: 'Patrick Hand', cursive;
 }
 
 
